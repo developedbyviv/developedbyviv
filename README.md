@@ -66,6 +66,14 @@ Containerized React application demonstrating Docker best practices
 • Azure Fundamentals
 • GitHub Actions & CI/CD
 
+## 🎖️ Digital Badges
+
+<div align="center">
+  <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="120" height="120">
+  <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Red Hat Certified System Administrator" width="120" height="120">
+  <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="120" height="120">
+</div>
+
 ## 🎓 Education
 **Master of Technology (MTech)**
 BITS Pilani | In Progress
