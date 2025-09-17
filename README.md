@@ -63,27 +63,15 @@ Containerized React application demonstrating Docker best practices
 - **Tech Stack**: React, Docker
 - **Features**: Multi-stage builds, optimized containers
 
-## 🎓 Education
-
-**Master of Technology (MTech)**  
-*BITS Pilani* | *In Progress*
-
 ## 🏆 Certifications
-
 - **AWS Certified Solutions Architect** (In Progress)
 - **Red Hat Certified System Administrator**
 - **Azure Fundamentals**
 - **GitHub Actions & CI/CD**
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developedbyviv&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyviv&layout=compact&hide_border=true&theme=radical" align="center" />
-</div>
+## 🎓 Education
+**Master of Technology (MTech)**  
+*BITS Pilani* | *In Progress*
 
 ## Let's Connect! 🤝
 
